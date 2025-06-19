@@ -1,0 +1,115 @@
+* {
+    background-color: aliceblue;
+}
+
+#title {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#ageTitle {
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#weightTitle {
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.inputGender {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#heightTitle {
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#inputAge {
+    display: block;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#inputFeet {
+    display: block;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#inputInches {
+    display: block;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#inputWeight {
+    display: block;
+    text-align: center;
+    padding: 10px 20px;
+    align-items: center;
+    align-content: center;
+    font-size: 15px;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
+
+#submitBtn {
+    display: block;
+    text-align: center;
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#submitBtn:hover {
+    background-color:darkolivegreen;
+}
+
+#totalBMI {
+    display: block;
+    text-align: center;
+    padding: 40px 20px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+footer {
+    display: block;
+    text-align: center;
+    position: relative;
+    padding: 200px 100px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
